@@ -1,20 +1,28 @@
-#Breast Cancer Risk Prediction
+Breast Cancer Risk Prediction
+
 A model which predicts the type of cancer risk.
 
-#Description
+Description
+
 Blog link for detailed description:
+
 https://jahnviseth30.medium.com/breast-cancer-risk-prediction-system-a575c2eb8130
 
-#Tech Stack
-Mention the tech stack used for your project
+Tech Stack
 
-#Mentee
+Python, Machine Learning
+
+Mentee
+
 Name->Jahnvi Seth, Github-> https://github.com/jahnvisethjs
 
-#Mentor
+Mentor
+
 Name-> Geetu, Github-> https://github.com/geetu-sharma
-#Get started
-Dataset-> breasr_cancer_data.csv
+
+Get started
+
+Dataset-> breast_cancer_data.csv
 Code file->code_file.py
 
 #Screenshots 
