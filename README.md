@@ -25,4 +25,6 @@ Get started
 Dataset-> breast_cancer_data.csv
 Code file->code_file.py
 
+Download the dataset and run code on any editor like idle or spyder.
+
 #Screenshots 
